@@ -11,21 +11,19 @@ Saya berfokus pada pengembangan backend dan memidivki minat dalam menciptakan so
 
 ### Frontend Development
 
-<ul>
-  <div><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="30"/></div>
-  <div><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="HTML" width="30"/></div>
-  <div><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="HTML" width="30"/></div>
-  <div><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="HTML" width="30"/></div>
-  <div><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="HTML" width="30"/></div>
-</ul>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="HTML" width="30" />
 
 ### Backend Development
 
 <ul>
-  <div><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="HTML" width="30"/></div>
-  <div><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="HTML" width="30"/></div>
-  <div><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="HTML" width="30"/></div>
-  <div><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="HTML" width="30"/></div>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="HTML" width="30" />
 </ul>
 
 ## Kontak

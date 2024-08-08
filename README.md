@@ -27,6 +27,7 @@ Saya berfokus pada pengembangan backend dan memidivki minat dalam menciptakan so
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="HTML" width="30" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="HTML" width="30" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="HTML" width="30" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="HTML" width="30" />
 </ul>
 

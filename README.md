@@ -18,7 +18,7 @@ Saya berfokus pada pengembangan backend dan memiliki minat dalam menciptakan sol
 - **SCSS**
 
 ### Backend Development
-- **Node.js** ![Node.js Logo](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg)
+- **Node.js** ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
 - **Express.js** ![Express Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
 - **Go** (Golang) ![Go Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/Go_Logo_Blue.svg)
 - **Golang Fiber** ![Fiber Logo](https://fiber.wiki/assets/logo.svg)

@@ -9,20 +9,20 @@ Saya berfokus pada pengembangan backend dan memiliki minat dalam menciptakan sol
 ## Keahlian
 
 ### Frontend Development
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Tailwind CSS**
-- **React**
-- **Vite**
-- **SCSS**
+- ![HTML](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg) **HTML**
+- ![CSS](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg) **CSS**
+- ![JavaScript](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg) **JavaScript**
+- ![Tailwind CSS](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS.svg) **Tailwind CSS**
+- ![React](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React.svg) **React**
+- ![Vite](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite.svg) **Vite**
+- ![SCSS](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SCSS.svg) **SCSS**
 
 ### Backend Development
-- **Node.js** ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-- **Express.js** ![Express Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
-- **Go** (Golang) ![Go Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/Go_Logo_Blue.svg)
-- **Golang Fiber** ![Fiber Logo](https://fiber.wiki/assets/logo.svg)
-- **Gin Gonic** ![Gin Logo](https://github.com/gin-gonic/gin/blob/main/logo.png)
+- ![Node.js](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS.svg) **Node.js**
+- ![Express.js](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Express.svg) **Express.js**
+- ![Go](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Go.svg) **Go (Golang)**
+- ![Golang Fiber](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Fiber.svg) **Golang Fiber**
+- ![Gin Gonic](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gin.svg) **Gin Gonic**
 
 ## Kontak
 

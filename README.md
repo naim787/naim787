@@ -14,21 +14,17 @@ Saya berfokus pada pengembangan backend dan memiliki minat dalam menciptakan sol
   <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="30"/></li>
   <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="HTML" width="30"/></li>
   <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="HTML" width="30"/></li>
-  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="HTML" width="30"/></li>
-  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="HTML" width="30"/></li>
-  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="HTML" width="30"/></li>
+  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="HTML" width="30"/></li>
   <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="HTML" width="30"/></li>
-  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="HTML" width="30"/></li>
 </ul>
 
 ### Backend Development
 
 <ul>
-  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS.svg" alt="Node.js" width="30"/> Node.js</li>
-  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Express.svg" alt="Express.js" width="30"/> Express.js</li>
-  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Go.svg" alt="Go" width="30"/> Go (Golang)</li>
-  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Fiber.svg" alt="Golang Fiber" width="30"/> Golang Fiber</li>
-  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gin.svg" alt="Gin Gonic" width="30"/> Gin Gonic</li>
+  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="HTML" width="30"/></li>
+  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="HTML" width="30"/></li>
+  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="HTML" width="30"/></li>
+  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="HTML" width="30"/></li>
 </ul>
 
 ## Kontak

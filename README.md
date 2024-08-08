@@ -10,12 +10,13 @@ Saya berfokus pada pengembangan backend dan memidivki minat dalam menciptakan so
 ## SkillSet
 
 ### Frontend Development
-
+<ul>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="30" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="HTML" width="30" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="HTML" width="30" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="HTML" width="30" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="HTML" width="30" />
+</ul>
 
 ### Backend Development
 

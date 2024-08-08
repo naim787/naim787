@@ -11,13 +11,14 @@ Saya berfokus pada pengembangan backend dan memiliki minat dalam menciptakan sol
 ### Frontend Development
 
 <ul>
-  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="30"/> HTML</li>
-  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" width="30"/> CSS</li>
-  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="30"/> JavaScript</li>
-  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS.svg" alt="Tailwind CSS" width="30"/> Tailwind CSS</li>
-  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React.svg" alt="React" width="30"/> React</li>
-  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite.svg" alt="Vite" width="30"/> Vite</li>
-  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SCSS.svg" alt="SCSS" width="30"/> SCSS</li>
+  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="30"/></li>
+  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="HTML" width="30"/></li>
+  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="HTML" width="30"/></li>
+  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="HTML" width="30"/></li>
+  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="HTML" width="30"/></li>
+  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="HTML" width="30"/></li>
+  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="HTML" width="30"/></li>
+  <li><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="HTML" width="30"/></li>
 </ul>
 
 ### Backend Development

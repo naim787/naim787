@@ -34,7 +34,7 @@ Saya berfokus pada pengembangan backend dan memidivki minat dalam menciptakan so
 
 <ul>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="HTML" width="30" />
-<img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg" alt="HTML" width="30" />
+<img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg" alt="HTML" width="60" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="HTML" width="30" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="HTML" width="30" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="HTML" width="30" />

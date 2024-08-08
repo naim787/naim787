@@ -1,7 +1,6 @@
 # Peggenalan
-<h1>Naim Abdullah</h1>
 <img src="./nm.jpg" alt="" />
-
+-----------------------------
 Halo! Saya Naim Abdullah, seorang pengembang perangkat lunak dari Sulawesi Utara, Indonesia. Saya telah mempelajari dunia pemrograman selama lebih dari 2 tahun, di tahun 2022.
 
 ## Tentang Saya

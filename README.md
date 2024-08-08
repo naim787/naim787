@@ -6,7 +6,7 @@ Halo! Saya Naim Abdullah, seorang pengembang perangkat lunak dari Sulawesi Utara
 
 Saya berfokus pada pengembangan backend dan memidivki minat dalam menciptakan solusi yang efisien dan scalable. Meskipun saya masih tergolong junior dalam pengembangan backend, saya berkomitmen untuk terus belajar dan berkembang dalam bidang ini.
 
-## Keahdivan
+## SkillSet
 
 ### Frontend Development
 

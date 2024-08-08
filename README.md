@@ -1,6 +1,6 @@
 # Portofolio Naim Abdullah
 
-Halo! Saya Naim Abdullah, seorang pengembang perangkat lunak dari Sulawesi Utara, Indonesia. Saya lulus dari SMA Dimembe dan telah mempelajari dunia pemrograman selama lebih dari 2 tahun.
+Halo! Saya Naim Abdullah, seorang pengembang perangkat lunak dari Sulawesi Utara, Indonesia. Saya telah mempelajari dunia pemrograman selama lebih dari 2 tahun, di tahun 2022.
 
 ## Tentang Saya
 
@@ -29,10 +29,10 @@ Saya berfokus pada pengembangan backend dan memiliki minat dalam menciptakan sol
 
 ## Kontak
 
-Jika Anda ingin berkolaborasi atau sekadar menghubungi saya, silakan kirim email ke [email@example.com] atau hubungi saya melalui LinkedIn di [LinkedIn Profile].
+Jika Anda ingin berkolaborasi atau sekadar menghubungi saya, silakan kirim email ke [naimmmmab@gmail.com] atau hubungi saya melalui LinkedIn di [naim abdullah].
 
-Terima kasih telah mengunjungi portofolio saya!
+Terima kasih telah mengunjungi github saya!
 
 ---
 
-*Dokumentasi ini dibuat untuk memberikan gambaran singkat mengenai keterampilan dan pengalaman saya dalam dunia pemrograman.*
+*Dokumentasi ini dibuat untuk memberikan gambaran singkat mengenai keterampilan dan pengalaman saya dalam dunia pemrograman. ©CopyRight 08-08-2024*

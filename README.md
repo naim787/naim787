@@ -9,20 +9,26 @@ Saya berfokus pada pengembangan backend dan memiliki minat dalam menciptakan sol
 ## Keahlian
 
 ### Frontend Development
-- ![HTML](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg) **HTML**
-- ![CSS](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg) **CSS**
-- ![JavaScript](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg) **JavaScript**
-- ![Tailwind CSS](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS.svg) **Tailwind CSS**
-- ![React](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React.svg) **React**
-- ![Vite](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite.svg) **Vite**
-- ![SCSS](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SCSS.svg) **SCSS**
+
+<ul>
+  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="30"/> HTML</li>
+  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" width="30"/> CSS</li>
+  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="30"/> JavaScript</li>
+  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS.svg" alt="Tailwind CSS" width="30"/> Tailwind CSS</li>
+  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React.svg" alt="React" width="30"/> React</li>
+  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite.svg" alt="Vite" width="30"/> Vite</li>
+  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SCSS.svg" alt="SCSS" width="30"/> SCSS</li>
+</ul>
 
 ### Backend Development
-- ![Node.js](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS.svg) **Node.js**
-- ![Express.js](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Express.svg) **Express.js**
-- ![Go](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Go.svg) **Go (Golang)**
-- ![Golang Fiber](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Fiber.svg) **Golang Fiber**
-- ![Gin Gonic](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gin.svg) **Gin Gonic**
+
+<ul>
+  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS.svg" alt="Node.js" width="30"/> Node.js</li>
+  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Express.svg" alt="Express.js" width="30"/> Express.js</li>
+  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Go.svg" alt="Go" width="30"/> Go (Golang)</li>
+  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Fiber.svg" alt="Golang Fiber" width="30"/> Golang Fiber</li>
+  <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gin.svg" alt="Gin Gonic" width="30"/> Gin Gonic</li>
+</ul>
 
 ## Kontak
 

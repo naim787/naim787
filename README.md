@@ -2,6 +2,11 @@
 <img src="./nm.jpg" alt="" />
 ---
 Halo! Saya Naim Abdullah, seorang pengembang perangkat lunak dari Sulawesi Utara, Indonesia. Saya telah mempelajari dunia pemrograman selama lebih dari 2 tahun, di tahun 2022.
+<ul>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" /></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="" /></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="" /></a>
+</ul>
 
 ## Tentang Saya
 

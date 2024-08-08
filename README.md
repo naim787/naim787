@@ -3,9 +3,15 @@
 ---
 Halo! Saya Naim Abdullah, seorang pengembang perangkat lunak dari Sulawesi Utara, Indonesia. Saya telah mempelajari dunia pemrograman selama lebih dari 2 tahun, di tahun 2022.
 <ul>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" /></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="" /></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="" /></a>
+<a href="#">
+ <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="HTML" width="30" />
+</a>
+<a href="#">
+<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/facebook/facebook.svg" alt="HTML" width="30" />
+</a>
+<a href="#">
+<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" alt="HTML" width="30" />
+</a>
 </ul>
 
 ## Tentang Saya
@@ -16,9 +22,12 @@ Saya berfokus pada pengembangan backend dan memidivki minat dalam menciptakan so
 
 ### Frontend Development
 <ul>
-<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="HTML" width="30" />
-<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/facebook/facebook.svg" alt="HTML" width="30" />
-<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="HTML" width="30" />
 </ul>
 
 ### Backend Development

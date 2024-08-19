@@ -1,22 +1,22 @@
 # Peggenalan
 <img src="./nm.jpg" alt="" />
 ---
-Halo! Saya Naim Abdullah, seorang pengembang perangkat lunak dari Sulawesi Utara, Indonesia. Saya telah mempelajari dunia pemrograman selama lebih dari 2 tahun, di tahun 2022.
+Halo! Saya Naim Abdullah, seorang pengembang perangkat lunak dari Sulawesi Utara, Indonesia. Saya telah mempelajari dunia pemrograman selama lebih dari 2 tahun.
 <ul>
 <a href="#">
  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="HTML" width="30" />
 </a>
-<a href="#">
+<a href="https://www.facebook.com/naimmmmmmmmmmmmmmmmmmmmmmmmmmm">
 <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/facebook/facebook.svg" alt="HTML" width="30" />
 </a>
-<a href="#">
+<a href="https://www.instagram.com/nm_codig/">
 <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" alt="HTML" width="30" />
 </a>
 </ul>
 
 ## Tentang Saya
 
-Saya berfokus pada pengembangan backend dan memidivki minat dalam menciptakan solusi yang efisien dan scalable. Meskipun saya masih tergolong junior dalam pengembangan backend, saya berkomitmen untuk terus belajar dan berkembang dalam bidang ini.
+Saya berfokus pada pengembangan backend dan Memiliki minat dalam menciptakan solusi yang efisien dan scalable. Meskipun saya masih tergolong junior dalam pengembangan backend, saya berkomitmen untuk terus belajar dan berkembang dalam bidang ini.
 
 ## SkillSet
 

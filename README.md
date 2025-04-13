@@ -23,7 +23,7 @@ func main() {
  ```
 🛠 Tech Stack
 Backend Development
-<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40" /> <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg" alt="Fiber" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40" /> </div>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40" /> <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg" alt="Fiber" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40" /> </div>
 Frontend Development
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40" /> </div>
 Tools & Lainnya

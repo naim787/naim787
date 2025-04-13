@@ -1,7 +1,7 @@
 # Peggenalan
-<img src="./nm.jpg" alt="" />
+<img src="./nm.jpg" alt="" width="300px"/>
 ---
-Halo! Saya Naim Abdullah, seorang pengembang perangkat lunak dari Sulawesi Utara, Indonesia. Saya telah mempelajari dunia pemrograman selama lebih dari 2 tahun.
+Halo! Saya Naim Abdullah, seorang pengembang perangkat lunak dari Sulawesi Utara, Indonesia. Saya telah mempelajari dunia pemrograman selama lebih dari 3 tahun.
 <ul>
 <a href="#">
  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="HTML" width="30" />

@@ -33,5 +33,5 @@ Tools & Lainnya
 📊 GitHub Stats
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=naim787&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim787&layout=compact&theme=nightowl" alt="Top Languages" style="width: 48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim787&layout=compact&hide=html,css,scss&exclude_repo=n_tools,porto_nm" alt="Top Languages" style="width: 48%" />
 </div>

@@ -29,6 +29,7 @@ Saya berfokus pada pengembangan backend dan Memiliki minat dalam menciptakan sol
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="HTML" width="30" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="HTML" width="30" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="HTML" width="30" />
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Svelte.svg" alt="HTML" width="30" />
 </ul>
 
 ### Backend Development
@@ -40,6 +41,8 @@ Saya berfokus pada pengembangan backend dan Memiliki minat dalam menciptakan sol
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="HTML" width="30" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="HTML" width="30" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="HTML" width="30" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Svelte.svg" alt="HTML" width="30" />
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="HTML" width="30" />
 </ul>
 
 ## Kontak

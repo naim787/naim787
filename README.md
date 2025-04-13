@@ -11,7 +11,7 @@
 
 Seorang pengembang perangkat lunak dengan pengalaman **3+ tahun** di dunia pemrograman. Fokus utama pada pengembangan backend dengan passion untuk membangun solusi yang **efisien, scalable, dan maintainable**. Selalu bersemangat untuk mempelajari teknologi baru dan menerapkan best practices dalam pengembangan software.
 
-```go
+``go
 package main
 
 import "fmt"
@@ -20,6 +20,9 @@ func main() {
     skills := []string{"Backend Development", "System Design", "Problem Solving"}
     fmt.Printf("Always learning: %v\n", skills) 
 }
+
+
+
 🛠 Tech Stack
 Backend Development
 Go

@@ -1,56 +1,51 @@
-# Peggenalan
-<img src="./nm.jpg" alt="" width="300px"/>
----
-Halo! Saya Naim Abdullah, seorang pengembang perangkat lunak dari Sulawesi Utara, Indonesia. Saya telah mempelajari dunia pemrograman selama lebih dari 3 tahun.
-<ul>
-<a href="#">
- <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="HTML" width="30" />
-</a>
-<a href="https://www.facebook.com/naimmmmmmmmmmmmmmmmmmmmmmmmmmm">
-<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/facebook/facebook.svg" alt="HTML" width="30" />
-</a>
-<a href="https://www.instagram.com/nm_codig/">
-<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" alt="HTML" width="30" />
-</a>
-</ul>
+# 👋 Halo, Saya Naim Abdullah 
 
-## Tentang Saya
+<img src="./nm.jpg" alt="Naim Abdullah" width="250" style="border-radius: 50%; border: 5px solid #2E3440"/>
 
-Saya berfokus pada pengembangan backend dan Memiliki minat dalam menciptakan solusi yang efisien dan scalable. Meskipun saya masih tergolong junior dalam pengembangan backend, saya berkomitmen untuk terus belajar dan berkembang dalam bidang ini.
-
-## SkillSet
-
-### Frontend Development
-<ul>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="30" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="HTML" width="30" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="HTML" width="30" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="HTML" width="30" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="HTML" width="30" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="HTML" width="30" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="HTML" width="30" />
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Svelte.svg" alt="HTML" width="30" />
-</ul>
-
-### Backend Development
-
-<ul>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="HTML" width="30" />
-<img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg" alt="HTML" width="60" />
-<img src="https://avatars.githubusercontent.com/u/7894478?s=280&v=4" alt="HTML" width="30" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="HTML" width="30" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="HTML" width="30" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="HTML" width="30" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Svelte.svg" alt="HTML" width="30" />
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="HTML" width="30" />
-</ul>
-
-## Kontak
-
-Jika Anda ingin berkolaborasi atau sekadar menghubungi saya, silakan kirim email ke [naimmmmab@gmail.com] atau hubungi saya melalui divnkedIn di [naim abdullah].
-
-Terima kasih telah mengunjungi github saya!
+> *Backend Developer | Tech Enthusiast | Continuous Learner*  
+> 🌍 Sulawesi Utara, Indonesia | 📧 naimmmmab@gmail.com  
 
 ---
 
-*Dokumentasi ini dibuat untuk memberikan gambaran singkat mengenai keterampilan dan pengalaman saya dalam dunia pemrograman. ©CopyRight 08-08-2024*
+## 🚀 Tentang Saya
+
+Seorang pengembang perangkat lunak dengan pengalaman **3+ tahun** di dunia pemrograman. Fokus utama pada pengembangan backend dengan passion untuk membangun solusi yang **efisien, scalable, dan maintainable**. Selalu bersemangat untuk mempelajari teknologi baru dan menerapkan best practices dalam pengembangan software.
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+    skills := []string{"Backend Development", "System Design", "Problem Solving"}
+    fmt.Printf("Always learning: %v\n", skills) 
+}
+🛠 Tech Stack
+Backend Development
+Go
+Fiber
+Node.js
+Express
+PostgreSQL
+
+Frontend Development
+React
+Svelte
+TailwindCSS
+JavaScript
+
+Tools & Lainnya
+Git
+Docker
+Vite
+
+🌐 Connect With Me
+LinkedIn
+Instagram
+Facebook
+Gmail
+
+📊 GitHub Stats
+Your GitHub stats
+
+Top Langs

@@ -31,4 +31,7 @@ Tools & Lainnya
 🌐 Connect With Me
 <div style="display: flex; gap: 10px;"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /> </a> <a href="https://www.instagram.com/nm_codig/"> <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" /> </a> <a href="https://www.facebook.com/naimmmmmmmmmmmmmmmmmmmmmmmmmmm"> <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="40" height="40" /> </a> <a href="mailto:naimmmmab@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" /> </a> </div>
 📊 GitHub Stats
-<div style="display: flex; flex-wrap: wrap; gap: 20px;"> <img src="https://github-readme-stats.vercel.app/api?username=naimabdullah&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimabdullah&layout=compact&theme=nightowl" alt="Top Languages" style="width: 48%" /> </div>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=naim787&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim787&layout=compact&theme=nightowl" alt="Top Languages" style="width: 48%" />
+</div>

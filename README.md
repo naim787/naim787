@@ -1,6 +1,6 @@
 # 👋 Halo, Saya Naim Abdullah 
 
-<img src="./download(1).jpeg" alt="Naim Abdullah" width="250" style="border-radius: 50%; border: 5px solid #2E3440"/>
+<img src="./download (1).jpeg" alt="Naim Abdullah" width="250" style="border-radius: 50%; border: 5px solid #2E3440"/>
 
 > *Backend Developer | Tech Enthusiast | Continuous Learner*  
 > 🌍 Sulawesi Utara, Indonesia | 📧 naimmmmab@gmail.com  

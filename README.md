@@ -13,11 +13,11 @@
 # 📊 GitHub Stats:
 <!-- # 💻 Tech Stack: -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=naim787&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="700px" />
+<img src="https://github-readme-stats.vercel.app/api?username=naim787&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="900px" />
 <!-- ![](https://github-readme-stats.vercel.app/api?username=naim787&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=naim787&theme=dark&hide_border=false" width="700px" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=naim787&theme=dark&hide_border=false" width="900px" />
 
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=naim787&theme=dark&hide_border=false)<br/> -->
 <!-- 
